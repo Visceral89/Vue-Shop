@@ -10,7 +10,6 @@ const productData = ref(null); // Product Data goes here.
 Fetch data yada yada!
 */
 
-const route = useRoute();
 </script>
 
 <template>
