@@ -4,7 +4,9 @@
 	<nav>
 		<div class="toprow">
 			<div>Search</div>
-			<div>Men Women Children</div>
+			<div id="genders">
+				<a href="/">Men</a> <a href="/">Women</a> <a href="/">Children</a>
+			</div>
 			<div>Logo</div>
 		</div>
 		<div class="botrow">
@@ -37,5 +39,10 @@ nav {
 	display: flex;
 	justify-content: center;
 	align-items: center;
+}
+
+#genders {
+	display: flex;
+	gap: 2rem;
 }
 </style>
