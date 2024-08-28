@@ -1,9 +1,10 @@
 <script setup>
+import { ref, onMounted } from "vue";
 import { useRoute } from "vue-router";
 
 const route = useRoute();
 const productId = route.params.id;
-const productData = ref(null) // Product Data goes here.
+const productData = ref(null); // Product Data goes here.
 
 /*
 Fetch data yada yada!
