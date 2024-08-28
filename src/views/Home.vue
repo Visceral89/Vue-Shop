@@ -1,5 +1,7 @@
 <script setup></script>
 
-<template></template>
+<template>
+	<div>Home</div>
+</template>
 
 <style></style>

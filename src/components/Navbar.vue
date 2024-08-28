@@ -9,4 +9,9 @@
 	</nav>
 </template>
 
-<style scoped></style>
+<style scoped>
+nav {
+	width: 100%;
+
+}
+</style>
