@@ -1,3 +1,57 @@
-{
-  
-}
+[
+	{
+		"productId": 0,
+		"productName": "Lamb of God - Skull - Tshirt",
+		"description": "A cool band t-shirt with a skull motif, supporting Lamb of God",
+		"price": 29.99,
+		"image-motif": "/images/log-skull-motif.jpg",
+		"image-front": "/images/log-skull-front.jpg",
+		"image-back": "/images/log-skull-back.jpg",
+		"category": ["tshirt"],
+		"sex:": ["men", "women"]
+	},
+	{
+		"productId": 1,
+		"productName": "Lamb of God - Crow - Tshirt",
+		"description": "A cool band t-shirt with a crow motif, supporting Lamb of God",
+		"price": 29.99,
+		"image-motif": "/images/log-crow-motif.jpg",
+		"image-front": "/images/log-crow-front.jpg",
+		"image-back": "/images/log-crow-back.jpg",
+		"category": ["tshirt"],
+		"sex:": ["men", "women"]
+	},
+	{
+		"productId": 3,
+		"productName": "Lamb of God - Crow - Hoodie",
+		"description": "A cool band hoodie with a crow motif, supporting Lamb of God",
+		"price": 49.89,
+		"image-motif": "/images/log-hood-crow-motif.jpg",
+		"image-front": "/images/log-hood-crow-front.jpg",
+		"image-back": "/images/log-hood-crow-back.jpg",
+		"category": ["hoodie"],
+		"sex:": ["men", "women"]
+	},
+	{
+		"productId": 4,
+		"productName": "Lamb of God - Tour - Child Hoodie",
+		"description": "A cool band hoodie with a crow motif, supporting Lamb of God",
+		"price": 25.69,
+		"image-motif": "/images/log-kid-hood-tour-motif.jpg",
+		"image-front": "/images/log-kid-hood-tour-front.jpg",
+		"image-back": "/images/log-kid-hood-tour-back.jpg",
+		"category": ["kid", "hoodie"],
+		"sex:": ["kid"]
+	},
+	{
+		"productId": 5,
+		"productName": "Lamb of God - Tour - Tee",
+		"description": "A cool and fresh tee for women, supporting Lamb of God",
+		"price": 39.89,
+		"image-motif": "/images/log-tee-tour-motif.jpg",
+		"image-front": "/images/log-tee-tour-front.jpg",
+		"image-back": "/images/log-tee-tour-back.jpg",
+		"category": ["tshirt"],
+		"sex:": ["women"]
+	}
+]
