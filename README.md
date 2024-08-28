@@ -73,4 +73,7 @@ This project is open for contributions. Feel free to fork the repository and sub
 
 This project is licensed under the MIT License.
 
+### Inspiration
+
+The general layout and functionality will be inspired by the following sites.
 https://www.impericon.com/sv
