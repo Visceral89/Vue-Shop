@@ -68,6 +68,7 @@ This project is open for contributions. Feel free to fork the repository and sub
 - Cart logic
 - Deployment
 - Backend (Supabase?)
+- Replacing Homeview with components?
 
 ## License
 
