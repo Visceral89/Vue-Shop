@@ -3,10 +3,12 @@
 <template>
 	<header>
 		<Navbar />
-		<h1>Hello World</h1>
+		<h1>Merch Store</h1>
 	</header>
 
-	<main></main>
+	<main>
+		<router-view></router-view>
+	</main>
 </template>
 
 <style scoped></style>
