@@ -13,9 +13,9 @@
 	<section id="articles">
 		<h2>Recent Articles</h2>
 		<div class="article-container">
-			<div>1</div>
-			<div>2</div>
-			<div>3</div>
+			<article><h3 class="article-title">Lorem, ipsum.</h3></article>
+			<article><h3 class="article-title">Lorem, ipsum.</h3></article>
+			<article><h3 class="article-title">Lorem, ipsum.</h3></article>
 		</div>
 		<button>all articles</button>
 	</section>

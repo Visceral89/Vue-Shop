@@ -1,29 +1,76 @@
-# hello-world
+# Vue Faux Webshop
 
-This template should help get you started developing with Vue 3 in Vite.
+This is a small faux webshop project built with Vue to learn more about the framework.
+The store features various band merch items such as t-shirts and hoodies.
+This project is intended purely for learning purposes.
 
-## Recommended IDE Setup
+## Project Description
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+The goal of this project is to create a simple online store using Vue.js, where users can browse and view different products.
+The application demonstrates the use of Vue Router for navigating between pages and dynamically fetching product data based on route parameters.
 
-## Customize configuration
+### Tech Stack
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+- **Vue**: 3.4.29
+- **Vite**: 5.3.1
+- **Vue Router**: 4.4.3
+
+## Features
+
+- Dynamic routing with Vue Router to handle product details.
+- Fetching and displaying product data based on URL parameters.
+- Simple UI to showcase various band merchandise.
 
 ## Project Setup
 
-```sh
+To get started with the project, follow these steps:
+
+### 1. Install Dependencies
+
+Install the necessary dependencies using npm or yarn:
+
+```bash
 npm install
+# or
+yarn install
 ```
 
-### Compile and Hot-Reload for Development
+### 2. Run the Development Server
 
-```sh
+Start the development server using Vite:
+
+```bash
 npm run dev
+# or
+yarn dev
 ```
 
-### Compile and Minify for Production
+### 3. Open in Browser
 
-```sh
-npm run build
-```
+Open your browser and go to `http://localhost:5173` to view the webshop.
+
+## Usage
+
+The webshop allows you to navigate through different band merch items.
+Click on a product to view more details. The product data is fetched dynamically based on the product ID present in the route.
+
+## Contributing
+
+This project is open for contributions. Feel free to fork the repository and submit pull requests for any enhancements or bug fixes.
+
+### Todo:
+
+- Design & Layout
+- Colors & Fonts
+- Finalize Template
+- Datafetching
+- Passing props to components
+- Cart logic
+- Deployment
+- Backend (Supabase?)
+
+## License
+
+This project is licensed under the MIT License.
+
+https://www.impericon.com/sv
