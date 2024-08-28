@@ -1,13 +1,12 @@
-<script setup>
-export default {
-	data() {
-		return {};
-	},
-};
-</script>
+<script setup></script>
 
 <template>
-  <nav></nav>
+	<nav>
+		<div>Search</div>
+		<div>Men Women Children</div>
+		<div>Logo</div>
+		<div>Categories</div>
+	</nav>
 </template>
 
 <style scoped></style>

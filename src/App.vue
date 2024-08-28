@@ -1,9 +1,8 @@
-<script setup>
-
-</script>
+<script setup></script>
 
 <template>
 	<header>
+		<Navbar />
 		<h1>Hello World</h1>
 	</header>
 
