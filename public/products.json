@@ -8,7 +8,10 @@
 		"image-front": "/images/log-skull-front.jpg",
 		"image-back": "/images/log-skull-back.jpg",
 		"category": ["tshirt"],
-		"sex:": ["men", "women"]
+		"sex:": ["men", "women"],
+		"stock": 0,
+		"brand": "null",
+		"rating": 0
 	},
 	{
 		"productId": 1,
@@ -19,7 +22,10 @@
 		"image-front": "/images/log-crow-front.jpg",
 		"image-back": "/images/log-crow-back.jpg",
 		"category": ["tshirt"],
-		"sex:": ["men", "women"]
+		"sex:": ["men", "women"],
+		"stock": 0,
+		"brand": "null",
+		"rating": 0
 	},
 	{
 		"productId": 3,
@@ -30,7 +36,10 @@
 		"image-front": "/images/log-hood-crow-front.jpg",
 		"image-back": "/images/log-hood-crow-back.jpg",
 		"category": ["hoodie"],
-		"sex:": ["men", "women"]
+		"sex:": ["men", "women"],
+		"stock": 0,
+		"brand": "null",
+		"rating": 0
 	},
 	{
 		"productId": 4,
@@ -41,7 +50,10 @@
 		"image-front": "/images/log-kid-hood-tour-front.jpg",
 		"image-back": "/images/log-kid-hood-tour-back.jpg",
 		"category": ["kid", "hoodie"],
-		"sex:": ["kid"]
+		"sex:": ["kid"],
+		"stock": 0,
+		"brand": "null",
+		"rating": 0
 	},
 	{
 		"productId": 5,
@@ -52,6 +64,9 @@
 		"image-front": "/images/log-tee-tour-front.jpg",
 		"image-back": "/images/log-tee-tour-back.jpg",
 		"category": ["tshirt"],
-		"sex:": ["women"]
+		"sex:": ["women"],
+		"stock": 0,
+		"brand": "null",
+		"rating": 0
 	}
 ]
